@@ -1,2 +1,2 @@
-# chess
+# Chess
 Haskell chess playing program
