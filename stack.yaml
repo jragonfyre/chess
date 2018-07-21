@@ -1,0 +1,8 @@
+flags: {}
+packages:
+- .
+extra-deps:
+- ansi-terminal-0.8.0.4
+- colour-2.3.4
+- readline-1.0.3.0
+resolver: ghc-8.4.2
